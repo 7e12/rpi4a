@@ -1,0 +1,21 @@
+/sys/class/tty/ttyAMA0/
+    |- close_delay
+    |- closing_wait
+    |- custom_divisor
+    |- dev
+    |- device -> ../../../fe201000.serial
+    |- flags
+    |- hci0
+    |- io_type
+    |- iomem_base
+    |- iomem_reg_shift
+    |- irq
+    |- line
+    |- port
+    |- power
+    |- subsystem -> ../../../../../../class/tty
+    |- type
+    |- uartclk
+    |- uevent
+    |- waiting_for_supplier
+    '- xmit_fifo_size

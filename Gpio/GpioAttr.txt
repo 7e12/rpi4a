@@ -1,0 +1,10 @@
+/sys/class/gpio/gpio<id>/
+    |- active_low
+    |- device -> ../../../gpiochip0
+    |- direction
+    |- edge
+    |- power
+    |- subsystem -> ../../../../../../../class/gpio
+    |- uevent
+    |- value
+    '- waiting_for_supplier
